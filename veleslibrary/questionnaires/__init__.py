@@ -17,3 +17,4 @@ from .rses import rses
 from .nfcs import nfcs, nfcsShort
 from .tls15 import tls15
 from .sd3 import sd3
+from .tipi import tipi
